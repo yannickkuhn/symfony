@@ -2,3 +2,5 @@
 test/var/
 
 test/bin/
+
+test/\.idea/
